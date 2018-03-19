@@ -17,3 +17,5 @@
 | Sensor de proximidad HC-SR04     |     |               |  |
 | Sensor de temperatura LM35       |     |               |  |
 | Sensor de temperatura y humedad  |     |               |  |
+| ---                              | --- | ---           | ---  |
+| TOTAL                            |     |               |  |
