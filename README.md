@@ -2,6 +2,8 @@
 
 ![](IESAX.png)
 
+<br />
+
 Convenio de colaboración entre la **Concejalía de Juventud y Cooperación al Desarrollo del Ayuntamiento de Murcia** y el **IES Alfonso X El Sabio (Murcia)**, para la promoción y puesta en marcha de actividades extraescolares durante el curso escolar 2017/2018. 
 
 - **Actividad**: Club gratuito de programación y robótica para jóvenes.
@@ -12,7 +14,7 @@ Convenio de colaboración entre la **Concejalía de Juventud y Cooperación al D
 - **Horario**: Todos los viernes de 16:00 a 18:00
 
 
-Más información: [https://www.iax.es/blog/2018/01/31/firma-convenios-subvencion-actividades-extraescolares-ayuntamiento-murcia/](https://www.iax.es/blog/2018/01/31/firma-convenios-subvencion-actividades-extraescolares-ayuntamiento-murcia/)
+Visita este enlace para [más información](https://www.iax.es/blog/2018/01/31/firma-convenios-subvencion-actividades-extraescolares-ayuntamiento-murcia/):
 
 ***
 
