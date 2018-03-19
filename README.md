@@ -2,6 +2,12 @@
 
 Club gratuito de programación y robótica para jóvenes en el IES Alfonso X Murcia.
 
+### Mentor
+
+- [Migue](https://github.com/migueabellan)
+
+
+
 ### Ninjas
 
 - Manuel
