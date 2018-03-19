@@ -1,4 +1,4 @@
-# IES-Alfonso-X-Murcia
+# IES Alfonso X El Sabio (Murcia)
 
 ![](IESAX.png)
 
@@ -12,14 +12,18 @@ Convenio de colaboración entre la **Concejalía de Juventud y Cooperación al D
 - **Horario**: Todos los viernes de 16:00 a 18:00
 
 
+Más información: [https://www.iax.es/blog/2018/01/31/firma-convenios-subvencion-actividades-extraescolares-ayuntamiento-murcia/](https://www.iax.es/blog/2018/01/31/firma-convenios-subvencion-actividades-extraescolares-ayuntamiento-murcia/)
+
 ***
 
-
+<br /><br />
 
 ### Mentor
 
 - [Migue](https://github.com/migueabellan)
 
+
+<br /><br />
 
 
 ### Ninjas
