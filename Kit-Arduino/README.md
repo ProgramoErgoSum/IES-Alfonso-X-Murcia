@@ -1,1 +1,20 @@
-# Componentes para el maletÌn b·sico de Arduino
+# Kit b√°sico de Arduino
+
+- Arduino UNO Rev3
+- Protoboard
+- Latiguillos macho-macho
+
+- Resistencias
+- Diodos 1N4007
+
+- LEDs, L√°ser, RGB
+- Zumbador activos
+- Servomotor
+- Paso a paso con controladora
+
+- Potenci√≥metro
+- Pulsador
+- Sensor LDR
+- Sensor de proximidad HC-SR04
+- Sensor de temperatura LM35
+- Sensor de temperatura y humedad integrado
