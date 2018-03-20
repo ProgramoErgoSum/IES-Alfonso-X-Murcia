@@ -13,8 +13,9 @@ Convenio de colaboración entre la **Concejalía de Juventud y Cooperación al D
 - **Imparte**: Asociación Programo Ergo Sum.
 - **Horario**: Todos los viernes de 16:00 a 18:00
 
+<br />
 
-Visita este enlace para [más información](https://www.iax.es/blog/2018/01/31/firma-convenios-subvencion-actividades-extraescolares-ayuntamiento-murcia/):
+Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvencion-actividades-extraescolares-ayuntamiento-murcia/) para más información.
 
 ***
 
