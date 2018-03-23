@@ -23,6 +23,18 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 
 <br />
 
+
+## Contenidos del curso 2017-2018
+
+1. [Iniciación a la programación con Scratch](https://www.programoergosum.com/cursos-online/scratch)
+2. [Lenguaje de programación JavaScript](https://www.aprendeprogramando.es/cursos-online/javascript)
+3. Modelado para impresión 3D
+4. Robótica con componentes de código abierto
+
+
+<br />
+
+
 ## Prácticas del curso 2017-2018
 
 1. [Crear una cuenta en Github](I-Crear-cuenta/README.md)
