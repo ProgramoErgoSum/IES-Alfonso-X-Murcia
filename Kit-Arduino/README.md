@@ -24,3 +24,12 @@
 | Sensor de temperatura y humedad  | 1   |               |  |
 | ---                              | --- | ---           | ---  |
 | TOTAL                            |     |               |  |
+
+
+<br>
+
+***
+
+<img src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+Esta obra está bajo una licencia de <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES">Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>. 
+2018 <a href="https://www.programoergosum.com">Asociación Programo Ergo Sum</a>.
