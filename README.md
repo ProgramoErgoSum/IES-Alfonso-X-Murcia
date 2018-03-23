@@ -1,5 +1,5 @@
-# Club de Programación y Robótica
-## IES Alfonso X El Sabio (Murcia)
+# IES Alfonso X El Sabio (Murcia)
+### *Club de Programación y Robótica*
 
 ![](IESAX.png)
 
