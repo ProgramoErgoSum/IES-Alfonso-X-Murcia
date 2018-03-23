@@ -30,19 +30,18 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 3. Placa PCB 3D con electrónica
 4. Cubo de LEDs 2x2x2
 5. Brazo robot con Joystick
+6. Próximamente
 
 
-### Sobre las entregas de ejercicios
+<br>
+
+
+## Sobre las entregas de ejercicios
 
 En las sesiones se plantean diferentes **ejercicios** que se deberán entregar y añadir a [este repositorio](https://github.com/ProgramoErgoSum/IES-Alfonso-X-Murcia) para obtener **puntos**. Se publicará un **Ranking** con los nombres de todos los que han entregado y la cantidad de **puntos** conseguidos.
 
 
-#### Mentor
-
-- [Migue](https://github.com/migueabellan)
-
-
-#### Ninjas
+#### Ranking
 
 | Puntos | Autor | 
 | :---:  | :---  |

@@ -1,7 +1,3 @@
-# 1ª Práctica
+# migueabellan
 
-En esta práctica he creado 3 llaveros de ejemplo:
-
-- Cala-Duna.stl: Llavero para perros con forma de hueso impreso en color **gris**.
-- Puzzle.stl: Llaveros con forma de Puzzle con las iniciales M (Migue) y C (Carmen) impresos en color **gris**.
-- ProgramoErgoSum.stl: Llavero con el logotipo de la Asociación Programo Ergo Sum impreso en color **naranja**.
+Maker que apuesta por el Software Libre y el Conocimiento Compartido. Cofundador de Programo Ergo Sum, Presidente de CoderDojo EspaÃ±a. Mi hastag es Aprende Programando.
