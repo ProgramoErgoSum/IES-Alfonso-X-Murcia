@@ -10,7 +10,7 @@ Convenio de colaboración entre la **Concejalía de Juventud y Cooperación al D
 - **Actividad**: Club gratuito de programación y robótica para jóvenes.
 - **Destinatarios**: Alumnos del IES Alfonso X de Murcia.
   - Iniciación: 1º-2ºESO
-  - Avanzado: 3º-4º ESO y 1º y 2º Bachiller
+  - Avanzado: 3º-4º ESO y 1º-2º Bachiller
 - **Imparte**: Asociación Programo Ergo Sum.
 - **Horario**: Todos los viernes de 16:00 a 18:00
 
