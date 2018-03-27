@@ -42,7 +42,7 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 3. Placa PCB 3D con electrónica
 4. Cubo de LEDs 2x2x2
 5. Brazo robot con Joystick
-6. Próximamente
+6. Próximamente ...
 
 
 <br>
