@@ -6,6 +6,7 @@ Diseñar un llavero utilizando la herramienta [TinkerCad](https://www.tinkercad.
 - Se deberá elegir uno de los siguientes colores (misma pieza con mismo color):
 	- Gris, Negro, Rojo, Azul, Verde, Naranja, Amarillo
 
+<br>
 
 ### Ejercicios propuestos (4 puntos)
 
