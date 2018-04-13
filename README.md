@@ -60,7 +60,7 @@ En las sesiones se plantean diferentes **ejercicios** que se deberán entregar y
 | Puntos | Autor | 
 | :---:  | :---  |
 | 0     | [Mark](https://github.com/LEGOMAN7) |
-| 0     | Manuel |
+| 0     | [Manuel](https://github.com/albertogg023) |
 | 0     | Alejandro |
 | 0     | Enrique |
 | 0     | Javier |
