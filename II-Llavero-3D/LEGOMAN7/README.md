@@ -1,6 +1,6 @@
-## Instrucciones Impresión Llavero
+# Instrucciones Impresión Llavero
 
-# Me gustaría aclararte una serie de aspectos antes de que intentes imprimir el llavero:
+## Me gustaría aclararte una serie de aspectos antes de que intentes imprimir el llavero:
 
 1. Rebasa los límites de dimensiones (no sé si es un valor orientativo u obligatorio, pero mi pieza de Lego duplica en grosor): mide 41.6mm de largo x 9,6 mm de alto x 8mm de fondo.
 
