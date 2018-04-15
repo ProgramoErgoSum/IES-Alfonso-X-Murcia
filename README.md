@@ -10,7 +10,7 @@ Convenio de colaboración entre la **Concejalía de Juventud y Cooperación al D
 - **Actividad**: Club gratuito de programación y robótica para jóvenes.
 - **Destinatarios**: Alumnos del IES Alfonso X de Murcia.
   - Iniciación: 1º-2ºESO
-  - Avanzado: 3º-4º ESO y 1º y 2º Bachiller
+  - Avanzado: 3º-4º ESO y 1º-2º Bachiller
 - **Imparte**: Asociación Programo Ergo Sum.
 - **Horario**: Todos los viernes de 16:00 a 18:00
 
@@ -23,6 +23,20 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 
 <br />
 
+
+## Contenidos del curso 2017-2018
+
+1. [Iniciación a la programación con Scratch](https://www.programoergosum.com/cursos-online/scratch)
+2. [Robótica educativa con mBot](https://www.programoergosum.com/cursos-online/robotica-educativa)
+3. [Modelado para impresión 3D](https://www.programoergosum.com/cursos-online/impresion-3d)
+4. [Lenguaje de programación JavaScript](https://www.aprendeprogramando.es/cursos-online/javascript)
+5. [Electrónica con Arduino](https://www.programoergosum.com/cursos-online/arduino)
+6. Robótica con componentes de código abierto OpenSource
+
+
+<br />
+
+
 ## Prácticas del curso 2017-2018
 
 1. [Crear una cuenta en Github](I-Crear-cuenta/README.md)
@@ -30,7 +44,7 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 3. Placa PCB 3D con electrónica
 4. Cubo de LEDs 2x2x2
 5. Brazo robot con Joystick
-6. Próximamente
+6. Próximamente ...
 
 
 <br>
@@ -45,12 +59,12 @@ En las sesiones se plantean diferentes **ejercicios** que se deberán entregar y
 
 | Puntos | Autor | 
 | :---:  | :---  |
-| 0     | [Mark](https://github.com/LEGOMAN7) |
-| 0     | Manuel |
+| 9     | [LEGOMAN](https://github.com/LEGOMAN7) |
+| 5     | [Alberto](https://github.com/albertogg023) |
 | 0     | Alejandro |
 | 0     | Enrique |
 | 0     | Javier |
-| 0     | Alberto |
+| 0     | Manuel |
 | 0     | Pablo |
 
 

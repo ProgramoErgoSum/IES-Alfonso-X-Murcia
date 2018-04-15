@@ -2,7 +2,9 @@
 
 El primer paso será crear una cuenta en GitHub para añadir todas las prácticas realizadas durante el curso.
 
-### Ejercicios propuestos (4 puntos)
+<br >
+
+### Ejercicios propuestos (5 puntos)
 
 Para completar este tutorial, se proponen los **siguientes ejercicios**:
 

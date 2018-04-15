@@ -2,11 +2,11 @@
 
 | Componente                       | Qty | Precio aprox. | Enlace |
 | ---                              | --- | ---           | ---    |
-| Arduino UNO Rev3 (Original)      | 1   | 25€           |  |
-| Protoboard 400 contactos         | 1   | 2€            |  |
-| Protoboard 170 contactos         | 1   | 1.5€          |  |
-| Latiguillos macho-macho          | 40  | 1.5€          |  |
-| Latiguillos macho-hembra         | 40  | 1.5€          |  |
+| Arduino UNO Rev3 (Original)      | 1   |               |  |
+| Protoboard 400 contactos         | 1   |               |  |
+| Protoboard 170 contactos         | 1   |               |  |
+| Latiguillos macho-macho          | 40  |               |  |
+| Latiguillos macho-hembra         | 40  |               |  |
 | Resistencias (varias)            | 100 |               |  |
 | Diodos 1N4007                    | 1   |               |  |
 | LEDs (colores)                   | 50  |               |  |
