@@ -28,7 +28,7 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 
 1. [Iniciación a la programación con Scratch](https://www.programoergosum.com/cursos-online/scratch)
 2. [Robótica educativa con mBot](https://www.programoergosum.com/cursos-online/robotica-educativa)
-3. [Modelado para impresión 3D](https://www.programoergosum.com/cursos-online/impresion-3d)
+3. [Modelado e  impresión 3D](https://www.programoergosum.com/cursos-online/impresion-3d)
 4. [Lenguaje de programación JavaScript](https://www.aprendeprogramando.es/cursos-online/javascript)
 5. [Electrónica con Arduino](https://www.programoergosum.com/cursos-online/arduino)
 6. Robótica con componentes de código abierto OpenSource
