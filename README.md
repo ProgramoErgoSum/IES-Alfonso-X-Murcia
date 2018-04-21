@@ -61,7 +61,7 @@ En las sesiones se plantean diferentes **ejercicios** que se deberán entregar y
 | :---:  | :---  |
 | 9     | [LEGOMAN](https://github.com/LEGOMAN7) |
 | 9     | [Alberto](https://github.com/albertogg023) |
-| 1     | Manuel |
+| 1     | [Manuel](https://github.com/manufhros) |
 | 0     | Alejandro |
 | 0     | Enrique |
 | 0     | Javier |
