@@ -60,11 +60,11 @@ En las sesiones se plantean diferentes **ejercicios** que se deberán entregar y
 | Puntos | Autor | 
 | :---:  | :---  |
 | 9     | [LEGOMAN](https://github.com/LEGOMAN7) |
-| 5     | [Alberto](https://github.com/albertogg023) |
+| 9     | [Alberto](https://github.com/albertogg023) |
+| 1     | Manuel |
 | 0     | Alejandro |
 | 0     | Enrique |
 | 0     | Javier |
-| 0     | Manuel |
 | 0     | Pablo |
 
 
