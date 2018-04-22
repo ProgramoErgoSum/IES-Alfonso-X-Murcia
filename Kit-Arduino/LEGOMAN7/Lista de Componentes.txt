@@ -1,7 +1,7 @@
 
 ///Lista de Componentes///
 
-En el caso de que lleguemos a hacernos algún día el kit, si no, ya nos irás indicando cada vez que iniciemos un proyecto nuevo.
+En el caso de que lleguemos a hacernos el kit algún día, si no, ya nos irás indicando cada vez que iniciemos un proyecto nuevo.
 
 1. Protoboard 400 €2,36
 https://www.amazon.es/Protoboard-contactos-Breadboard-prototipos-soldadura/dp/B00JGFDKBQ/ref=sr_1_1?s=music&ie=UTF8&qid=1524235406&sr=8-1&keywords=protoboard+400
