@@ -1,6 +1,8 @@
 
 ///Lista de Componentes///
 
+En el caso de que lleguemos a hacernos algún día el kit, si no, ya nos irás indicando cada vez que iniciemos un proyecto nuevo.
+
 1. Protoboard 400 €2,36
 https://www.amazon.es/Protoboard-contactos-Breadboard-prototipos-soldadura/dp/B00JGFDKBQ/ref=sr_1_1?s=music&ie=UTF8&qid=1524235406&sr=8-1&keywords=protoboard+400
 
@@ -53,11 +55,9 @@ s=electronics&ie=UTF8&qid=1524237291&sr=1-2&keywords=LM35
 17. Medidor Humedad 1x €2,51
 https://www.amazon.es/Ecloud-Temperatura-Humedad-Relativa-Arduino/dp/B017CWS1VS/ref=sr_1_3?s=electronics&ie=UTF8&qid=1524237333&sr=1-3&keywords=Sensor+de+temperatura+y+humedad
 
-Precio orientativo* (sin tener en cuenta las cantidades de cada producto) = €29,90
+Precio orientativo = €29,90*
 
-*En el caso de que lleguemos a hacernos algún día el kit, si no, ya nos irás indicando cada vez que iniciemos un proyecto nuevo.
-
-**No he incluido ni el Arduino Uno R3, ni el cable USB tipo A (va a ser necesario porque no tengo ninguno en casa) ni la caja (me sobran cajas para usarlas).
+*No he incluido ni el Arduino Uno R3, ni el cable USB tipo A (aún así, va a ser necesario porque no tengo ninguno en casa) ni la caja (me sobran cajas para usarlas).
 
 
 
