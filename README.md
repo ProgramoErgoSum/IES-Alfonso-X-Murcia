@@ -31,7 +31,6 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 3. [Modelado e  impresión 3D](https://www.programoergosum.com/cursos-online/impresion-3d)
 4. [Lenguaje de programación JavaScript](https://www.aprendeprogramando.es/cursos-online/javascript)
 5. [Electrónica con Arduino](https://www.programoergosum.com/cursos-online/arduino)
-6. Robótica con componentes de código abierto OpenSource
 
 
 <br />
@@ -43,7 +42,7 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 2. [Llavero 3D con impresora 3D](II-Llavero-3D/README.md)
 3. Placa PCB 3D con electrónica
 4. Cubo de LEDs 2x2x2
-5. Brazo robot con Joystick
+5. Girasol LDR
 6. Próximamente ...
 
 
