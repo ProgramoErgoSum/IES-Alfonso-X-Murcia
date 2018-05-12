@@ -1,5 +1,5 @@
 # Cubo de LEDs 3x3x3
-##  By: LEGOMAN7
+##  By LEGOMAN7
 
 Este programa crea diferentes combinaciones de luces que se realizan con una contrucción de 3x3x3 LEDs y 3 transistores. Cada combinación está definida como función, por lo que se puede modificar el orden en el que aparecen o las veces que se desea repetir cada una.
 
