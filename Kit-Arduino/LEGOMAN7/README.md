@@ -2,13 +2,13 @@
 # Lista de Componentes
 ## By LEGOMAN7
 
-- Precio orientativo = €29,90
+- Precio orientativo: €29,90
 
 - No he incluido ni el Arduino Uno R3, ni el cable USB tipo A, ni la caja.
 
 - Los precios son bastante inexactos, pues en la mayoría de productos hay una cantidad de componentes que nunca llegaremos a necesitar.
 
-0. Kit Leantec (con Arduino Uno Original) €42,95 €
+0. Kit Leantec (con Arduino Uno Original) €42,95
 https://www.leantec.es/todos-los-productos/66-kit-basico-para-arduino-.html?search_query=kit+arduino&results=38#/http_wwwleanteces_ti-arduino_uno_rev3_ori
 
 - Hay de todo, pero faltan cosas que se mueven, en concreto: un servomotor básico (de 0º a 180º), un servomotor estándar (amarillo) y un paso a paso con módulo.
