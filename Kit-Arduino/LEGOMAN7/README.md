@@ -2,11 +2,11 @@
 # Lista de Componentes
 ## By LEGOMAN7
 
-*Precio orientativo = €29,90
+* Precio orientativo = €29,90
 
-*No he incluido ni el Arduino Uno R3, ni el cable USB tipo A, ni la caja.
+** No he incluido ni el Arduino Uno R3, ni el cable USB tipo A, ni la caja.
 
-*Los precios son bastante inexactos, pues en la mayoría de productos hay una cantidad de componentes que nunca llegaremos a necesitar.
+*** Los precios son bastante inexactos, pues en la mayoría de productos hay una cantidad de componentes que nunca llegaremos a necesitar.
 
 0. Kit Leantec (con Arduino Uno Original) €42,95 €
 https://www.leantec.es/todos-los-productos/66-kit-basico-para-arduino-.html?search_query=kit+arduino&results=38#/http_wwwleanteces_ti-arduino_uno_rev3_ori
@@ -65,9 +65,6 @@ s=electronics&ie=UTF8&qid=1524237291&sr=1-2&keywords=LM35
 17. Medidor Humedad 1x €2,51
 https://www.amazon.es/Ecloud-Temperatura-Humedad-Relativa-Arduino/dp/B017CWS1VS/ref=sr_1_3?s=electronics&ie=UTF8&qid=1524237333&sr=1-3&keywords=Sensor+de+temperatura+y+humedad
 
-Precio orientativo = €29,90*
-
-*No he incluido ni el Arduino Uno R3, ni el cable USB tipo A, ni la caja.
 
 
 
