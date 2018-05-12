@@ -9,3 +9,4 @@ Se conecta a la placa Arduino Uno de las siguiente manera:
 - Cuatro latiguillos que irán a puerto de entrada analógica para leer los valores que registran los LDR.
 
 ![Alt Text](https://github.com/LEGOMAN7/IES-Alfonso-X-Murcia/blob/master/Girasol/Girasol.jpg)
+<img src=https://github.com/LEGOMAN7/IES-Alfonso-X-Murcia/blob/master/Girasol/Girasol.jpg width="500" height="500" />
