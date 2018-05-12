@@ -11,4 +11,4 @@ Se conecta a la placa Arduino Uno de las siguiente manera:
 
 Está sin calibrar y a medio programar, así que se volverá un poco loco.
 
-<img src=https://github.com/LEGOMAN7/IES-Alfonso-X-Murcia/blob/master/Girasol/Girasol.jpg width="403" height="302" />
+<img src=https://github.com/LEGOMAN7/IES-Alfonso-X-Murcia/blob/master/Girasol/Girasol.jpg width="302" height="403" />
