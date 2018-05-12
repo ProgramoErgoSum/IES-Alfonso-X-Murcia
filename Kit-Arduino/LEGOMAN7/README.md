@@ -1,5 +1,5 @@
 
-///Lista de Componentes///
+# Lista de Componentes
 
 En el caso de que lleguemos a hacernos el kit algún día, si no, ya nos irás indicando cada vez que iniciemos un proyecto nuevo.
 

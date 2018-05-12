@@ -28,10 +28,9 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 
 1. [Iniciación a la programación con Scratch](https://www.programoergosum.com/cursos-online/scratch)
 2. [Robótica educativa con mBot](https://www.programoergosum.com/cursos-online/robotica-educativa)
-3. [Modelado para impresión 3D](https://www.programoergosum.com/cursos-online/impresion-3d)
+3. [Modelado e  impresión 3D](https://www.programoergosum.com/cursos-online/impresion-3d)
 4. [Lenguaje de programación JavaScript](https://www.aprendeprogramando.es/cursos-online/javascript)
 5. [Electrónica con Arduino](https://www.programoergosum.com/cursos-online/arduino)
-6. Robótica con componentes de código abierto OpenSource
 
 
 <br />
@@ -43,7 +42,7 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 2. [Llavero 3D con impresora 3D](II-Llavero-3D/README.md)
 3. Placa PCB 3D con electrónica
 4. Cubo de LEDs 2x2x2
-5. Brazo robot con Joystick
+5. Girasol LDR
 6. Próximamente ...
 
 
@@ -59,12 +58,12 @@ En las sesiones se plantean diferentes **ejercicios** que se deberán entregar y
 
 | Puntos | Autor | 
 | :---:  | :---  |
-| 0     | [Mark](https://github.com/LEGOMAN7) |
-| 0     | Manuel |
+| 9     | [LEGOMAN](https://github.com/LEGOMAN7) |
+| 9     | [Alberto](https://github.com/albertogg023) |
+| 1     | [Manuel](https://github.com/manufhros) |
 | 0     | Alejandro |
 | 0     | Enrique |
 | 0     | Javier |
-| 0     | Alberto |
 | 0     | Pablo |
 
 
