@@ -283,12 +283,12 @@ for (int x=1; x<=20; x++) {
 for (int x=1; x<=5; x++) {
     aspa();
   }
-  apagar_todo();
+/*apagar_todo();
   delay(50);
-/*for (int x=1; x<=5; x++) {
+for (int x=1; x<=5; x++) {
       aspa_inversa;
-    } 
-  }*/
+  } 
+}*/
 
 
 
