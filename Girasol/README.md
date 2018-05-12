@@ -1,5 +1,5 @@
 # Girasol
-## By: LEGOMAN7
+## By LEGOMAN7
 
 Este programa se utiliza para hacer que una contrucción de dos servomotores y 4 LDRs siga una luz cual girasol.
 
