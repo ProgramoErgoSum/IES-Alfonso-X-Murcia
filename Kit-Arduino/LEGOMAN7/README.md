@@ -2,7 +2,7 @@
 # Lista de Componentes
 ## By LEGOMAN7
 
-- Precio orientativo: €29,90
+- Precio orientativo: €29,90.
 
 - No he incluido ni el Arduino Uno R3, ni el cable USB tipo A, ni la caja.
 
