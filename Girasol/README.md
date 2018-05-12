@@ -8,4 +8,6 @@ Se conecta a la placa Arduino Uno de las siguiente manera:
 - Dos latiguillos que irán a puertos de salida digital para dar órdenes de movimiento a los servomotores.
 - Cuatro latiguillos que irán a puerto de entrada analógica para leer los valores que registran los LDR.
 
+Está sin calibrar y a medio programar, así que se volverá un poco loco.
+
 <img src=https://github.com/LEGOMAN7/IES-Alfonso-X-Murcia/blob/master/Girasol/Girasol.jpg width="500" height="500" />
