@@ -7,3 +7,5 @@ Se conecta a la placa Arduino Uno de las siguiente manera:
 - Un latiguillo (negro) que irá al pin GND, que hará de toma a tierra.
 - Dos latiguillos que irán a puertos de salida digital para dar órdenes de movimiento a los servomotores.
 - Cuatro latiguillos que irán a puerto de entrada analógica para leer los valores que registran los LDR.
+
+![Alt Text](https://github.com/LEGOMAN7/IES-Alfonso-X-Murcia/blob/master/Girasol/Girasol.jpg)
