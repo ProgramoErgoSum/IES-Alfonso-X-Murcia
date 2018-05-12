@@ -59,8 +59,7 @@ https://www.amazon.es/Tanzimarket-calidad-dependiente-Resistencia-Fotoresistor/d
 https://www.amazon.es/ultras%C3%B3nico-hc-SR04-distancia-transductor-medici%C3%B3n/dp/B00GGPYTSW/ref=sr_1_3?s=electronics&ie=UTF8&qid=1524237059&sr=1-3&keywords=HC-SR04
 
 16. Termómetro 1x €1,16
-https://www.amazon.es/LM35DZ-Precisi%C3%B3n-Temperatura-Cent%C3%ADgrado-Impedancia/dp/B075H8KHTD/ref=sr_1_2?
-s=electronics&ie=UTF8&qid=1524237291&sr=1-2&keywords=LM35
+https://www.amazon.es/LM35DZ-Precisi%C3%B3n-Temperatura-Cent%C3%ADgrado-Impedancia/dp/B075H8KHTD/ref=sr_1_2?s=electronics&ie=UTF8&qid=1524237291&sr=1-2&keywords=LM35
 
 17. Medidor Humedad 1x €2,51
 https://www.amazon.es/Ecloud-Temperatura-Humedad-Relativa-Arduino/dp/B017CWS1VS/ref=sr_1_3?s=electronics&ie=UTF8&qid=1524237333&sr=1-3&keywords=Sensor+de+temperatura+y+humedad
