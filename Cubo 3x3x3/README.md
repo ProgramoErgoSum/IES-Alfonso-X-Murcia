@@ -1,7 +1,7 @@
 # Cubo de LEDs 3x3x3
 ##  By: LEGOMAN7
 
-Este programa incluye diferentes combinaciones de luces que se realizan con una contrucción de 3x3x3 LEDs y 3 transistores. Cada combinación está definida como función, por lo que se puede modificar el orden en el que aparecen o las veces que se desea repetir cada una.
+Este programa crea diferentes combinaciones de luces que se realizan con una contrucción de 3x3x3 LEDs y 3 transistores. Cada combinación está definida como función, por lo que se puede modificar el orden en el que aparecen o las veces que se desea repetir cada una.
 
 Se conecta a la placa Arduino Uno de la suguiente manera:
 - 9 latiguillos que irán a puertos de salida digital para alimentar los 9 LEDs (en el void setup van del 1 al 9).
