@@ -1,7 +1,17 @@
 
 # Lista de Componentes
+## By LEGOMAN7
 
-En el caso de que lleguemos a hacernos el kit algún día, si no, ya nos irás indicando cada vez que iniciemos un proyecto nuevo.
+- Precio orientativo: €29,90.
+
+- No he incluido ni el Arduino Uno R3, ni el cable USB tipo A, ni la caja.
+
+- Los precios son bastante inexactos, pues en la mayoría de productos hay una cantidad de componentes que nunca llegaremos a necesitar.
+
+0. Kit Leantec (con Arduino Uno Original) €42,95
+https://www.leantec.es/todos-los-productos/66-kit-basico-para-arduino-.html?search_query=kit+arduino&results=38#/http_wwwleanteces_ti-arduino_uno_rev3_ori
+
+- Hay de todo, pero faltan cosas que se mueven, en concreto: un servomotor básico (de 0º a 180º), un servomotor estándar (amarillo) y un paso a paso con módulo.
 
 1. Protoboard 400 €2,36
 https://www.amazon.es/Protoboard-contactos-Breadboard-prototipos-soldadura/dp/B00JGFDKBQ/ref=sr_1_1?s=music&ie=UTF8&qid=1524235406&sr=8-1&keywords=protoboard+400
@@ -49,15 +59,11 @@ https://www.amazon.es/Tanzimarket-calidad-dependiente-Resistencia-Fotoresistor/d
 https://www.amazon.es/ultras%C3%B3nico-hc-SR04-distancia-transductor-medici%C3%B3n/dp/B00GGPYTSW/ref=sr_1_3?s=electronics&ie=UTF8&qid=1524237059&sr=1-3&keywords=HC-SR04
 
 16. Termómetro 1x €1,16
-https://www.amazon.es/LM35DZ-Precisi%C3%B3n-Temperatura-Cent%C3%ADgrado-Impedancia/dp/B075H8KHTD/ref=sr_1_2?
-s=electronics&ie=UTF8&qid=1524237291&sr=1-2&keywords=LM35
+https://www.amazon.es/LM35DZ-Precisi%C3%B3n-Temperatura-Cent%C3%ADgrado-Impedancia/dp/B075H8KHTD/ref=sr_1_2?s=electronics&ie=UTF8&qid=1524237291&sr=1-2&keywords=LM35
 
 17. Medidor Humedad 1x €2,51
 https://www.amazon.es/Ecloud-Temperatura-Humedad-Relativa-Arduino/dp/B017CWS1VS/ref=sr_1_3?s=electronics&ie=UTF8&qid=1524237333&sr=1-3&keywords=Sensor+de+temperatura+y+humedad
 
-Precio orientativo = €29,90*
-
-*No he incluido ni el Arduino Uno R3, ni el cable USB tipo A (aún así, va a ser necesario porque no tengo ninguno en casa) ni la caja (me sobran cajas para usarlas).
 
 
 
