@@ -50,12 +50,12 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 
 #### Participantes
 
-[LEGOMAN](https://github.com/LEGOMAN7)
-[Alberto](https://github.com/albertogg023)
-[Manuel](https://github.com/manufhros)
-Enrique
-Javier
-Pablo
+- [LEGOMAN](https://github.com/LEGOMAN7)
+- [Alberto](https://github.com/albertogg023)
+- [Manuel](https://github.com/manufhros)
+- Enrique
+- Javier
+- Pablo
 
 
 
