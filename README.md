@@ -38,17 +38,19 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 
 ## Prácticas del curso 2017-2018
 
-1. [Crear una cuenta en Github](I-Crear-cuenta/README.md)
-2. [Llavero 3D con impresora 3D](II-Llavero-3D/README.md)
-3. [Girasol](Girasol/README.md)
-4. Cubo de LEDs 2x2x2
+1. [Crear una cuenta en Github](1-crear-cuenta/README.md)
+2. [Llavero 3D con impresora 3D](2-llavero-3d/README.md)
+3. [Kit Arduino](3-kit-arduino/README.md)
+4. [Carcasa Arduino 3D](4-carcasa-arduino/README.md)
+5. [Girasol](5-girasol/README.md)
+6. [Cubo de LEDs 3x3x3](6-cubo-leds/README.md)
 
 
 
 <br>
 
 
-#### Participantes
+## Participantes
 
 - [LEGOMAN](https://github.com/LEGOMAN7)
 - [Alberto](https://github.com/albertogg023)
