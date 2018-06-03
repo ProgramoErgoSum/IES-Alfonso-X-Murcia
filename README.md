@@ -16,7 +16,7 @@ Convenio de colaboración entre la **Concejalía de Juventud y Cooperación al D
 
 <br />
 
-Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvencion-actividades-extraescolares-ayuntamiento-murcia/) para más información.
+Visita [este enlace](https://www.programoergosum.com/actividades/club-maker-murcia) para más información.
 
 ***
 
