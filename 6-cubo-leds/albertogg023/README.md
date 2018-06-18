@@ -1,3 +1,6 @@
+# Código de mi cubo de leds
+
+´´´sh
 void setup() {
   pinMode(0, OUTPUT);
   pinMode(1, OUTPUT);
@@ -28,3 +31,4 @@ void loop() {
     }
   
 }
+´´´
