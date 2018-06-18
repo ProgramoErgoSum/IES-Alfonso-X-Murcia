@@ -16,7 +16,7 @@ Convenio de colaboración entre la **Concejalía de Juventud y Cooperación al D
 
 <br />
 
-Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvencion-actividades-extraescolares-ayuntamiento-murcia/) para más información.
+Visita [este enlace](https://www.programoergosum.com/actividades/club-maker-murcia) para más información.
 
 ***
 
@@ -28,10 +28,9 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 
 1. [Iniciación a la programación con Scratch](https://www.programoergosum.com/cursos-online/scratch)
 2. [Robótica educativa con mBot](https://www.programoergosum.com/cursos-online/robotica-educativa)
-3. [Modelado para impresión 3D](https://www.programoergosum.com/cursos-online/impresion-3d)
+3. [Modelado e  impresión 3D](https://www.programoergosum.com/cursos-online/impresion-3d)
 4. [Lenguaje de programación JavaScript](https://www.aprendeprogramando.es/cursos-online/javascript)
 5. [Electrónica con Arduino](https://www.programoergosum.com/cursos-online/arduino)
-6. Robótica con componentes de código abierto OpenSource
 
 
 <br />
@@ -39,33 +38,26 @@ Visita [este enlace](https://www.iax.es/blog/2018/01/31/firma-convenios-subvenci
 
 ## Prácticas del curso 2017-2018
 
-1. [Crear una cuenta en Github](I-Crear-cuenta/README.md)
-2. [Llavero 3D con impresora 3D](II-Llavero-3D/README.md)
-3. Placa PCB 3D con electrónica
-4. Cubo de LEDs 2x2x2
-5. Brazo robot con Joystick
-6. Próximamente ...
+1. [Crear una cuenta en Github](1-crear-cuenta/README.md)
+2. [Llavero 3D con impresora 3D](2-llavero-3d/README.md)
+3. [Kit Arduino](3-kit-arduino/README.md)
+4. [Carcasa Arduino 3D](4-carcasa-arduino/README.md)
+5. [Girasol](5-girasol/README.md)
+6. [Cubo de LEDs 3x3x3](6-cubo-leds/README.md)
+
 
 
 <br>
 
 
-## Sobre las entregas de ejercicios
+## Participantes
 
-En las sesiones se plantean diferentes **ejercicios** que se deberán entregar y añadir a [este repositorio](https://github.com/ProgramoErgoSum/IES-Alfonso-X-Murcia) para obtener **puntos**. Se publicará un **Ranking** con los nombres de todos los que han entregado y la cantidad de **puntos** conseguidos.
-
-
-#### Ranking
-
-| Puntos | Autor | 
-| :---:  | :---  |
-| 0     | [Mark](https://github.com/LEGOMAN7) |
-| 0     | Manuel |
-| 0     | Alejandro |
-| 0     | Enrique |
-| 0     | Javier |
-| 0     | Alberto |
-| 0     | Pablo |
+- [Marc](https://github.com/LEGOMAN7)
+- [Alberto](https://github.com/albertogg023)
+- [Manuel](https://github.com/manufhros)
+- Enrique
+- Javier
+- Pablo
 
 
 
