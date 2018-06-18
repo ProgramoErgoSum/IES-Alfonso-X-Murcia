@@ -17,10 +17,10 @@ void setup() {
 }
 
 void loop() {
-  for(int i =4; i<9;i++)
+  for(int i =0; i<5;i++)
     {
       digitalWrite(i,HIGH);
-      for(int z = 0; i<4;i++)
+      for(int z = 5; z<9;z++)
         {
           digitalWrite(z, HIGH);
           delay(500);
@@ -28,7 +28,9 @@ void loop() {
           
         }
         digitalWrite(i,LOW);
+        delay(500);
     }
+    
   
 }
-´´´
+```
