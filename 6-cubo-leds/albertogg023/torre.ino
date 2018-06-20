@@ -1,5 +1,3 @@
-#Feria
-```
 void setup() {
   pinMode(0, OUTPUT);
   pinMode(1, OUTPUT);
@@ -32,4 +30,3 @@ void loop() {
     
   
 }
-```
