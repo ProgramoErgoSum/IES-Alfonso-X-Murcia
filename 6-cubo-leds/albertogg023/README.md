@@ -1,4 +1,4 @@
-# Código de mi cubo de leds
+# Espiral piso a piso
 
 ```
 void setup() {
