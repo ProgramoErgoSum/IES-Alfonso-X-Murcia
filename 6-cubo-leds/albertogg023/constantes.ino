@@ -22,16 +22,43 @@ void operarFila(int fila, boolean operacion){
   digitalWrite(i,operacion);
 }
 
+void operarColumna(int columna, boolean operacion){
+  digitalWrite(columna, operacion);
+  for(int i = f1; i<=f5; i++)
+  digitalWrite(i,operacion);
+}
+
+void aleatorio(int tiempo = 500){
+  int rf = random(f1, f5+1);
+  int rc = random(f1, c4+1);
+  digitalWrite(rf, HIGH);
+  digitalWrite(rc,HIGH);
+  delay(tiempo);
+  digitalWrite(rf, LOW);
+  digitalWrite(rc, LOW);  
+  delay(tiempo);
+}
 
 void setup() {  
   for(int i =0; i<9;i++)
     pinMode(i,OUTPUT);
-    
- operarFila(f1,true);
- delay(500);
- operarFila(f1,false);
+  
 }
 
 void loop(){
- 
+   for(int i = f1; i<=f5;i++){
+    operarFila(i, true);
+    delay(500);
+    operarFila(i, false);
+  }
+  
+  for(int i = c1; i<=c4;i++){
+    operarColumna(i, true);
+    delay(250);
+    operarColumna(i, false);
+  }
+  
+  for(int i = 0; i<=10;i++){
+    aleatorio();
+  }
 }
