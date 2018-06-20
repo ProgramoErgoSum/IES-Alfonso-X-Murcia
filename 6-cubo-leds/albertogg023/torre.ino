@@ -13,54 +13,20 @@ void setup() {
  
 }
 
-void apagar_todo(){
-  for (int x=0; x<9; x++){
-   digitalWrite(x,0);
-  }
-}
-
-int randNumberX = 0, randNumberY = 0;
-
-void loop(){
-  /*
-   randNumberX = random(0,4);
-   randNumberY = random(4,9);
- 
-  digitalWrite(randNumberX,1); 
-  digitalWrite(randNumberY,1);
+void loop() {
+  for(int i =0; i<5;i++)
+    {
+      digitalWrite(i,HIGH);
+      for(int z = 5; z<9;z++)
+        {
+          digitalWrite(z, HIGH);
+          delay(500);
+          digitalWrite(z, LOW);
+          
+        }
+        digitalWrite(i,LOW);
+        delay(500);
+    }
+    
   
-  delay(100);
-  */
-  
-  giro_columna();
 }
-
-
-
-
-
-
-
-
-void giro_columna(){
-  for(int i=5; i<9; i++){
-    encender_columna(i);
-    delay(100);
-    apagar_todo();
-  }
-}
-
-
-/**
-* Esta función enciende la columna pasada por parámetro
-* @input columna:Integer
-* @output null
-*/
-void encender_columna(int columna){
-  
-  for(int i=0; i<5; i++)
-    digitalWrite(i ,HIGH);
-  
-  digitalWrite(columna ,HIGH);
-}
-
