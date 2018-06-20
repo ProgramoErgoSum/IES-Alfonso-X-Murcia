@@ -28,7 +28,7 @@ void operarColumna(int columna, boolean operacion){
   digitalWrite(i,operacion);
 }
 
-void aleatorio(int tiempo = 500){
+void aleatorio(int tiempo = 200){
   int rf = random(f1, f5+1);
   int rc = random(f1, c4+1);
   digitalWrite(rf, HIGH);
@@ -54,7 +54,7 @@ void loop(){
   
   for(int i = c1; i<=c4;i++){
     operarColumna(i, true);
-    delay(250);
+    delay(200);
     operarColumna(i, false);
   }
   
