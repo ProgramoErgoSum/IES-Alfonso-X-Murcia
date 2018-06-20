@@ -1,32 +1,33 @@
+
+int randNumberX = 0, randNumberY = 0;
+
 void setup() {
-  pinMode(0, OUTPUT);
-  pinMode(1, OUTPUT);
-  pinMode(2, OUTPUT);
-  pinMode(3, OUTPUT);
-  pinMode(4, OUTPUT);
-  pinMode(5, OUTPUT);
-  pinMode(6, OUTPUT);
-  pinMode(7, OUTPUT);
-  pinMode(8, OUTPUT);
-  
-  
- 
+  for(int i=0; i<9; i++){
+    pinMode(i, OUTPUT);
+  }
 }
 
-void loop() {
-  for(int i =0; i<5;i++)
-    {
-      digitalWrite(i,HIGH);
-      for(int z = 5; z<9;z++)
-        {
-          digitalWrite(z, HIGH);
-          delay(500);
-          digitalWrite(z, LOW);
-          
-        }
-        digitalWrite(i,LOW);
-        delay(500);
-    }
-    
+void apagar_todo(){
+  for (int x=0; x<9; x++){
+   digitalWrite(x,0);
+  }
+}
+
+void giro_columna(){
+  for(int i=5; i<9; i++){
+    encender_columna(i);
+    delay(100);
+    apagar_todo();
+  }
+}
+
+void encender_columna(int columna){
+  for(int i=0; i<5; i++)
+    digitalWrite(i ,HIGH);
   
+  digitalWrite(columna ,HIGH);
+}
+
+void loop(){
+  giro_columna();
 }
