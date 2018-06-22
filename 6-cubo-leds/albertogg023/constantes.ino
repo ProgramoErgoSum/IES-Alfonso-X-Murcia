@@ -19,13 +19,13 @@ void operarLed(int fila, int columna, boolean operacion){
 void operarFila(int fila, boolean operacion){
   digitalWrite(fila, operacion);
   for(int i = c1; i<=c4; i++)
-  digitalWrite(i,operacion);
+    digitalWrite(i,operacion);
 }
 
 void operarColumna(int columna, boolean operacion){
   digitalWrite(columna, operacion);
   for(int i = f1; i<=f5; i++)
-  digitalWrite(i,operacion);
+    digitalWrite(i,operacion);
 }
 
 void aleatorio(int tiempo = 200){
@@ -46,18 +46,18 @@ void setup() {
 }
 
 void loop(){
-   for(int i = f1; i<=f5;i++){
+  for(int i = f1; i<=f5;i++){
     operarFila(i, true);
     delay(500);
     operarFila(i, false);
   }
-  
+
   for(int i = c1; i<=c4;i++){
     operarColumna(i, true);
     delay(200);
     operarColumna(i, false);
   }
-  
+
   for(int i = 0; i<=10;i++){
     aleatorio();
   }
